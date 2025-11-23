@@ -160,4 +160,4 @@ Dự án đã cấu hình `.gitignore` để **bỏ qua các file không cần c
 
 ## 📜 License
 
-VANCANH © 2025 – Nhu Y Fresh Flowers
+MinhDuc © 2025 – Nhu Y Fresh Flowers

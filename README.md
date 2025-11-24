@@ -69,7 +69,7 @@ DB_PORT=3306
 DB_HOST=localhost
 DB_PASSWORD=123456
 
-JTW_SECRET=eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTcwMTI1NjM3MSwiaWF0IjoxNzAxMjU2MzcxfQ.TrBKsx9Dhwy-dcaji2iBPjBhFusq1LvZp8hjfYSs0vQ
+JTW_SECRET=
 ```
 
 > ⚠️ **Lưu ý bảo mật:** Không commit file `.env` lên GitHub.
